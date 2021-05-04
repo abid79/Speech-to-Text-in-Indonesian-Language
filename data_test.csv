@@ -1,0 +1,51 @@
+wav_filename,wav_filesize,transcript
+/home/abid/DeepSpeech-0.6.1/data/test_new/001.wav,66764,saya bermain bola di lapangan
+/home/abid/DeepSpeech-0.6.1/data/test_new/002.wav,73740,saya bermain bola di lapangan
+/home/abid/DeepSpeech-0.6.1/data/test_new/003.wav,70380,saya bermain bola di lapangan
+/home/abid/DeepSpeech-0.6.1/data/test_new/004.wav,83948,saya bermain bola di lapangan
+/home/abid/DeepSpeech-0.6.1/data/test_new/005.wav,99564,saya bermain bola di lapangan
+/home/abid/DeepSpeech-0.6.1/data/test_new/006.wav,86572,ayah membaca buku di ruang tamu
+/home/abid/DeepSpeech-0.6.1/data/test_new/007.wav,84908,ayah membaca buku di ruang tamu
+/home/abid/DeepSpeech-0.6.1/data/test_new/008.wav,84812,ayah membaca buku di ruang tamu
+/home/abid/DeepSpeech-0.6.1/data/test_new/009.wav,83020,ayah membaca buku di ruang tamu
+/home/abid/DeepSpeech-0.6.1/data/test_new/010.wav,87404,ayah membaca buku di ruang tamu
+/home/abid/DeepSpeech-0.6.1/data/test_new/011.wav,92908,nenek memasak sayur di dapur
+/home/abid/DeepSpeech-0.6.1/data/test_new/012.wav,91916,nenek memasak sayur di dapur
+/home/abid/DeepSpeech-0.6.1/data/test_new/013.wav,85836,nenek memasak sayur di dapur
+/home/abid/DeepSpeech-0.6.1/data/test_new/014.wav,80172,nenek memasak sayur di dapur
+/home/abid/DeepSpeech-0.6.1/data/test_new/015.wav,94476,nenek memasak sayur di dapur
+/home/abid/DeepSpeech-0.6.1/data/test_new/016.wav,71404,kakak bermain sepeda di halaman
+/home/abid/DeepSpeech-0.6.1/data/test_new/017.wav,76044,kakak bermain sepeda di halaman
+/home/abid/DeepSpeech-0.6.1/data/test_new/018.wav,71628,kakak bermain sepeda di halaman
+/home/abid/DeepSpeech-0.6.1/data/test_new/019.wav,73996,kakak bermain sepeda di halaman
+/home/abid/DeepSpeech-0.6.1/data/test_new/020.wav,70060,kakak bermain sepeda di halaman
+/home/abid/DeepSpeech-0.6.1/data/test_new/021.wav,70348,paman menggembala sapi di kebun
+/home/abid/DeepSpeech-0.6.1/data/test_new/022.wav,67052,paman menggembala sapi di kebun
+/home/abid/DeepSpeech-0.6.1/data/test_new/023.wav,66508,paman menggembala sapi di kebun
+/home/abid/DeepSpeech-0.6.1/data/test_new/024.wav,68172,paman menggembala sapi di kebun
+/home/abid/DeepSpeech-0.6.1/data/test_new/025.wav,69708,paman menggembala sapi di kebun
+/home/abid/DeepSpeech-0.6.1/data/test_new/026.wav,68044,bibi mengantar tas ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/027.wav,70476,bibi mengantar tas ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/028.wav,73100,bibi mengantar tas ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/029.wav,69516,bibi mengantar tas ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/030.wav,75468,bibi mengantar tas ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/031.wav,72876,dia membaca buku di rumah
+/home/abid/DeepSpeech-0.6.1/data/test_new/032.wav,72460,dia membaca buku di rumah
+/home/abid/DeepSpeech-0.6.1/data/test_new/033.wav,71820,dia membaca buku di rumah
+/home/abid/DeepSpeech-0.6.1/data/test_new/034.wav,70988,dia membaca buku di rumah
+/home/abid/DeepSpeech-0.6.1/data/test_new/035.wav,75180,dia membaca buku di rumah
+/home/abid/DeepSpeech-0.6.1/data/test_new/036.wav,70476,adik memakai sepeda ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/037.wav,68812,adik memakai sepeda ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/038.wav,69868,adik memakai sepeda ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/039.wav,72524,adik memakai sepeda ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/040.wav,72012,adik memakai sepeda ke sekolah
+/home/abid/DeepSpeech-0.6.1/data/test_new/041.wav,70220,kakek menanam padi di sawah
+/home/abid/DeepSpeech-0.6.1/data/test_new/042.wav,69484,kakek menanam padi di sawah
+/home/abid/DeepSpeech-0.6.1/data/test_new/043.wav,67020,kakek menanam padi di sawah
+/home/abid/DeepSpeech-0.6.1/data/test_new/044.wav,69868,kakek menanam padi di sawah
+/home/abid/DeepSpeech-0.6.1/data/test_new/045.wav,75852,kakek menanam padi di sawah
+/home/abid/DeepSpeech-0.6.1/data/test_new/046.wav,75404,ibu menonton tv di kamar
+/home/abid/DeepSpeech-0.6.1/data/test_new/047.wav,73036,ibu menonton tv di kamar
+/home/abid/DeepSpeech-0.6.1/data/test_new/048.wav,73228,ibu menonton tv di kamar
+/home/abid/DeepSpeech-0.6.1/data/test_new/049.wav,74508,ibu menonton tv di kamar
+/home/abid/DeepSpeech-0.6.1/data/test_new/050.wav,74188,ibu menonton tv di kamar
